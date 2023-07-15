@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevOps Projects**
 
-- 🌱 I’m currently learning **Azure,Kubernetes**
+- 🌱 I’m currently learning **AWS & Terraform**
 
 - 💬 Ask me about **Linux,AWS,Azure,SAP,JAVA**
 
