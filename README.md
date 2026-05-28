@@ -4,9 +4,15 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aaravsingh&label=Profile%20views&color=0e75b6&style=flat" alt="aaravsingh" />
+</p> -->
+
+id="ckc1to"
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=aaravrajsingh&label=Profile%20views&color=0e75b6&style=flat&base=10700" alt="aaravrajsingh" /> 
 </p>
+
 
 - 🔭 Currently working on **RAG, Knowledge Graphs & GenAI Systems**
 - 🌱 Learning **Advanced DSA & Distributed Systems**
