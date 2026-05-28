@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aarav Singh</h1>
+<h1 align="center">Hi 👋, I'm Aarav Raj Singh</h1>
 <h3 align="center">Backend Engineer • GenAI Engineer • System Designer • Patent Holder</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
