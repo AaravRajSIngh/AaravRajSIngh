@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=aaravsingh&label=Profile%20views&color=0e75b6&style=flat" alt="aaravsingh" />
 </p> -->
 
-id="ckc1to"
+
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aaravrajsingh&label=Profile%20views&color=0e75b6&style=flat&base=10700" alt="aaravrajsingh" /> 
+  <img src="https://komarev.com/ghpvc/?username=aaravrajsingh&label=Profile%20views&color=0e75b6&style=flat&base=8712" alt="aaravrajsingh" /> 
 </p>
 
 
